@@ -52,7 +52,7 @@ Companion project to [**Mixture-of-Recursions (PyTorch)**](https://github.com/ah
 
 ```bash
 git clone https://github.com/ahmedtaha100/RRT.git
-cd Relaxed-Recursive-Transformers-JAX
+cd RRT
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
