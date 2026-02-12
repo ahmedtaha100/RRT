@@ -1,0 +1,21 @@
+model:
+  num_layers: 4
+  hidden_dim: 128
+  num_heads: 4
+  num_kv_heads: 1
+  intermediate_dim: 512
+  vocab_size: 256
+  max_seq_len: 64
+  rope_theta: 10000.0
+  rms_norm_eps: 1.0e-6
+
+recursive:
+  num_loops: 2
+  block_size: 2
+
+lora:
+  rank: 8
+  alpha: 16
+  dropout: 0.0
+
+seed: 42
