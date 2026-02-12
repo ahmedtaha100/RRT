@@ -40,9 +40,9 @@ Companion project to [**Mixture-of-Recursions (PyTorch)**](https://github.com/ah
 
 | Model | Params | LoRA Overhead | Perplexity (WikiText-2) |
 |-------|--------|---------------|------------------------|
-| Gemma 2B (Vanilla) | 2.51B | — | XX.X |
-| Recursive Gemma (6×3) | 0.84B | 0% | XX.X |
-| Relaxed Recursive Gemma (6×3, r=64) | 0.87B | ~3.5% | XX.X |
+| Gemma 2B (Vanilla) | 2.51B | — | TBD |
+| Recursive Gemma (6×3) | 0.84B | 0% | TBD |
+| Relaxed Recursive Gemma (6×3, r=64) | 0.87B | ~3.5% | TBD |
 
 > *Results pending Gemma evaluation — small-scale validation passes all tests.*
 
